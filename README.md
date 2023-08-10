@@ -1,5 +1,16 @@
 # iosToDo
 iOS ToDo app
 
+New task
+
+![New Screenshot](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/New.png)
+
+
 Register
-<a href="https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Screenshot%202023-08-10%20at%2011.48.15.png">
+
+![Register Screenshot](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Register.png)
+
+
+Login
+
+![Login Screenshot](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Login.png)
