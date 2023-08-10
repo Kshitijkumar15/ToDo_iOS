@@ -1,5 +1,6 @@
 # iosToDo<br>
-<center><b>iOS ToDo app</b></center>
+<center><b>iOS ToDo app</b></center><br>
+<br>
 
 <center><b>New Item</b></center><br>
 
