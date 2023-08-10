@@ -1,10 +1,9 @@
-# iosToDo
+# iosToDo App
 
 An app that is connected with firebase for authentication and storage. User can set date and time for the next task.
 <br>
 <br>
-<b>iOS ToDo app</b><br>
-<br>
+
 
 <center><b>New Item</b></center><br>
 
