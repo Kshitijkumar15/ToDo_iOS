@@ -1,12 +1,12 @@
-# iosToDo
+# iosToDo<br>
 <center><b>iOS ToDo app</b></center>
 
-New Item
+<center><b>New Item</b></center><br>
 
 ![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/New.png)
 
 
-Register
+Register<br>
 
 ![Register](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Register.png)
 
