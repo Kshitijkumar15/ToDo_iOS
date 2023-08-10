@@ -7,11 +7,11 @@
 ![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/New.png)
 
 
-Register<br>
+<b>Register</b><br>
 
 ![Register](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Register.png)
 
 
-Login
+<b>Login</b>
 
 ![Log in](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Login.png)
