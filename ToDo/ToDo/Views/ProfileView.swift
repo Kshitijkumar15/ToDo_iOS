@@ -13,11 +13,11 @@ struct ProfileView: View {
     var body: some View {
         NavigationView {
             VStack{
-                if let user = viewModel.user{
+                if let user = viewModel.user {
                 profile(user: user)
             }
-            else{
-                Text("Loading ...")
+                else{
+                Text("Loading")
             }
         }
         
@@ -25,7 +25,7 @@ struct ProfileView: View {
     }
         .onAppear{
             viewModel.fetchUser()
-        }
+    }
 }
 
 @ViewBuilder
@@ -42,7 +42,6 @@ func profile(user: User) -> some View{
                 Text("Name:")
                     .bold()
                 Text(user.name)
-        
                 
             }
             .padding()
@@ -68,7 +67,7 @@ func profile(user: User) -> some View{
         .tint(.red)
         .padding()
         Spacer()
-}
+    }
 }
 
 struct ProfileView_Previews: PreviewProvider {

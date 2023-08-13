@@ -18,7 +18,6 @@ struct ToDoListView: View {
         self._viewModel = StateObject(wrappedValue: ToDoListViewViewModel(userId: userId))
     }
     
-    
     var body: some View {
         NavigationView {
             VStack{
@@ -37,7 +36,6 @@ struct ToDoListView: View {
             .navigationTitle("To Do List")
             .toolbar {
                 Button{
-                
                     viewModel.showingNewItemView = true
                 }label: {
                     Image(systemName: "plus")
@@ -53,6 +51,6 @@ struct ToDoListView: View {
 
 struct ToDoListView_Previews: PreviewProvider {
     static var previews: some View {
-        ToDoListView(userId: "1fKulnWsN2U72PDjn5tqfuxNUi22")
+        ToDoListView(userId: "")
     }
 }

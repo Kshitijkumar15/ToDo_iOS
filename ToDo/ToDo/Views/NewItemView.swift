@@ -8,12 +8,12 @@
 import SwiftUI
 
 struct NewItemView: View {
-    @StateObject var viewModel=NewItemViewViewModel()
-    @Binding var newItemPresented:Bool
+    @StateObject var viewModel = NewItemViewViewModel()
+    @Binding var newItemPresented: Bool
     
     var body: some View {
         VStack{
-            Text("Hello")
+            Text("New task")
                 .font(.system(size: 32))
                 .bold()
                 .padding()
