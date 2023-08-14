@@ -7,7 +7,7 @@ An app that is connected with firebase for authentication and storage. User can 
 
 <center><b>New Item</b></center><br>
 
-![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/New.png)
+![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/new%20task.png)
 
 
 <b>Register</b><br>
