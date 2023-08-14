@@ -27,38 +27,38 @@ The iOS Todo List App is a simple yet powerful task management tool designed to 
 - Personalize your profile to add a unique touch.
 
 
-
-<b>Splash</b><br>
+<div align="center">
+## Splash
 
 
 ![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Splash.png)
 
 
-<b>New Item</b><br>
+## New Item
 
 
 ![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/new%20task.png)
 
 
-<b>Register</b><br>
+## Register
 
 
 ![Register](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Register.png)
 
 
-<b>Login</b>
+## Login
 
 
 ![Log in](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Login.png)
 
 
-<b>Task list</b>
+## Task list
 
 
 ![Log in](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Task%20list.png)
 
 
-
+</div>
 
 ## Contributing
 
