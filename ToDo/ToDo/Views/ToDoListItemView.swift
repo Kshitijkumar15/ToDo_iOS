@@ -36,7 +36,7 @@ struct ToDoListItemView: View {
 
 struct ToDoListItemView_Previews: PreviewProvider {
     static var previews: some View {
-        ToDoListItemView(item: .init(id: "123",
+        ToDoListItemView(item: .init(id: "",
                                      title: "get milk",
                                     dueDate: Date().timeIntervalSince1970,
                                     createDate:Date().timeIntervalSince1970,
