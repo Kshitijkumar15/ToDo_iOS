@@ -76,7 +76,7 @@ We welcome contributions to enhance the iOS Todo List App. Feel free to open iss
 ## Contact
 
 - Author: Kshitij kumar singh
-- Email: [kshitijkumarsingh58@gmail.com]
+- Email: kshitijkumarsingh58@gmail.com
 - GitHub: [Kshitijkumar15](https://github.com/kshitijkumar15)
 
 
