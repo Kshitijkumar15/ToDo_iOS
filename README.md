@@ -36,3 +36,18 @@ An app that is connected with firebase for authentication and storage. User can 
 
 
 
+## Contact
+
+- Author: Kshitij kumar singh
+- Email: [Email](kshitijkumarsingh58@gmail.com)
+- GitHub: [Kshitijkumar15](https://github.com/kshitijkumar15)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at kshitijkumarsingh58@gmail.com
+
+
+
+
+
