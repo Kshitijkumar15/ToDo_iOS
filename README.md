@@ -1,7 +1,6 @@
 # iOS Todo List App
 
 The iOS Todo List App is a simple yet powerful task management tool designed to help you stay organized and on top of your daily tasks. Whether you're a student, a professional, or anyone in between, this app will assist you in efficiently managing your tasks while offering a seamless user experience.
-
 <br>
 
 ## Features
@@ -25,7 +24,6 @@ The iOS Todo List App is a simple yet powerful task management tool designed to 
 
 - View your profile information, including your username, email, and registration date.
 - Personalize your profile to add a unique touch.
-
 
 <div align="center">
  
@@ -82,7 +80,7 @@ We welcome contributions to enhance the iOS Todo List App. Feel free to open iss
 
 ## Feedback
 
- If you have any questions or need assistance, please don't hesitate to reach out  kshitijkumarsingh58@gmail.com
+Reach out to me at kshitijkumarsingh58@gmail.com
 
 
 
