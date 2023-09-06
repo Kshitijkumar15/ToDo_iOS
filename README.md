@@ -2,9 +2,11 @@
  
 # iOS Todo List App
 </div>
-The iOS Todo List App is a simple yet powerful task management tool designed to help you stay organized and on top of your daily tasks. Whether you're a student, a professional, or anyone in between, this app will assist you in efficiently managing your tasks while offering a seamless user experience.
-<br>
 
+## Introduction
+
+The iOS Todo List App is a simple yet powerful task management tool designed to help you stay organized and on top of your daily tasks. Whether you're a student, a professional, or anyone in between, this app will assist you in efficiently managing your tasks while offering a seamless user experience.
+$~~~~~~$
 ## Features
 
 ### User Registration and Login
@@ -27,37 +29,39 @@ The iOS Todo List App is a simple yet powerful task management tool designed to 
 - View your profile information, including your username, email, and registration date.
 - Personalize your profile to add a unique touch.
 
+$~~~~~~$
+
 <div align="center">
  
 ## Splash
 
 
 ![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Splash.png)
-
+$~~~~~~$
 
 ## New Item
 
 
 ![new item](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/new%20task.png)
-
+$~~~~~~$
 
 ## Register
 
 
 ![Register](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Register.png)
-
+$~~~~~~$
 
 ## Login
 
 
 ![Log in](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Login.png)
-
+$~~~~~~$
 
 ## Task list
 
 
 ![Log in](https://github.com/Kshitijkumar15/iosToDo/blob/Beginning/Task%20list.png)
-
+$~~~~~~$
 
 </div>
 
@@ -70,7 +74,7 @@ We welcome contributions to enhance the iOS Todo List App. Feel free to open iss
 3. Make your modifications and commit your changes.
 4. Push your changes to your forked repository.
 5. Open a pull request to the main repository's `main` branch.
-
+$~~~~~~$
 
 
 ## Contact
@@ -78,11 +82,11 @@ We welcome contributions to enhance the iOS Todo List App. Feel free to open iss
 - Author: Kshitij Kumar Singh
 - Email: kshitijkumarsingh58@gmail.com
 - GitHub: [Kshitijkumar15](https://github.com/kshitijkumar15)
+$~~~~~~$
 
-
-## Feedback
-
-Reach out to me at kshitijkumarsingh58@gmail.com
+<div align="center">
+<b>THE END</b>
+</div>
 
 
 
