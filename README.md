@@ -77,13 +77,6 @@ We welcome contributions to enhance the iOS Todo List App. Feel free to open iss
 $~~~~~~$
 
 
-## Contact
-
-- Author: Kshitij Kumar Singh
-- Email: kshitijkumarsingh58@gmail.com
-- GitHub: [Kshitijkumar15](https://github.com/kshitijkumar15)
-$~~~~~~$
-
 <div align="center">
 <b>THE END</b>
 </div>
