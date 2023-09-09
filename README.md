@@ -1,9 +1,10 @@
 <div align="center">
  
-# iOS Todo List App
+# iOS Todo List 
 </div>
 
 ## Introduction
+"Let's Do It!"
 
 The iOS Todo List App is a simple yet powerful task management tool designed to help you stay organized and on top of your daily tasks. Whether you're a student, a professional, or anyone in between, this app will assist you in efficiently managing your tasks while offering a seamless user experience.
 $~~~~~~$
